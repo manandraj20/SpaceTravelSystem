@@ -1,0 +1,15 @@
+P,Gauri G Menon,4 2020 05 12 10
+P,Pradeep,5 2021 03 21 10
+P,Carol,6 2022 01 01 10
+P,Grace Liu,7 2022 03 01 10
+P,Harry Kim,8 2022 03 02 10
+P,Isabel Chang,9 2022 03 03 10
+P,Jack Wang,10 2022 03 04 10
+P,Karen Chen,11 2022 03 05 10
+P,Larry Li,12 2022 03 06 10
+P,Megan Wu,13 2022 03 07 10
+P,Nick Lin,14 2022 03 08 10
+astronaut,Carol,3 10 SpaceX,this is the space travel license issued by the US govt.
+astronaut,Eve,5 20 Blue Origin,this is the space travel license issued by the US govt.
+commander,Frank,6 30 Roscosmos France
+commander,Dave,4 10 NASA USA
