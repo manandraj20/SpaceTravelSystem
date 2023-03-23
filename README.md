@@ -4,4 +4,4 @@ In this problem, we will implement a Space Travel System (STS) in C++ language u
 To run the program
 git clone <this repo url>
 cd SpaceTravelSystem
-run the command `make clean` and then 'make main' and then to run the executable type `.\main`
+run the command `make clean` and then `make main` and then to run the executable type `.\main`
